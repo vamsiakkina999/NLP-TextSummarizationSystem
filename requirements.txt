@@ -1,0 +1,10 @@
+streamlit
+numpy
+scikit-learn
+nltk
+rouge-score
+pandas
+matplotlib
+seaborn
+networkx
+scipy
